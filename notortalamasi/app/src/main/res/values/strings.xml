@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotOrtalamasi</string>
+    <string name="sinav1">1.sınav notunuzu giriniz.</string>
+    <string name="sinav2">2.sınav notunuzu giriniz.</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="sonuc">Sonuç</string>
+</resources>
