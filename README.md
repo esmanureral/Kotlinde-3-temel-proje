@@ -1,4 +1,4 @@
-<details> 
+<details open> 
  <summary> <h1> ☑️ Not Ortalaması Bulma </h1></summary>
      <summary> <h1> 🤔 Ne yapar? </h1></summary>
      Bu program, kullanıcıdan iki sınav notu girilmesini isteyerek, not ortalamasının 50 ve üzeri olması durumunda "Geçtiniz", aksi takdirde "Kaldınız" mesajını verir.
@@ -10,7 +10,7 @@
    </details>
 </details>
 
-<details> 
+<details open> 
  <summary> <h1> ☑️ Kronometre Uygulaması </h1></summary>
      <summary> <h1> 🤔 Ne yapar? </h1></summary>
            Bu uygulama, belirli bir süreyi başlatma, durdurma ve sıfırlama işlevlerine sahip bir kronometre sağlar.
